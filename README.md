@@ -1,4 +1,3 @@
-# 32bit-parameterized-ALU.
 # 32-bit Parameterized ALU in Verilog
 
 A parameterized **Arithmetic Logic Unit (ALU)** implemented in Verilog HDL. This project is designed as a building block for a future **RISC-V CPU** and supports common arithmetic and logical operations along with status flag generation.
